@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://zalozsro.sk/</loc>
+  <lastmod>2020-01-05T19:43:15+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://zalozsro.sk/index.php</loc>
+  <lastmod>2020-01-05T19:43:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://zalozsro.sk/zalozeniesro.php</loc>
+  <lastmod>2020-01-05T19:43:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://zalozsro.sk/zmenyvsro.php</loc>
+  <lastmod>2020-01-05T19:43:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://zalozsro.sk/zalozeniezivnosti.php</loc>
+  <lastmod>2020-01-05T19:43:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://zalozsro.sk/zruseniezivnosti.php</loc>
+  <lastmod>2020-01-05T19:43:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://zalozsro.sk/ready-made.php</loc>
+  <lastmod>2020-01-05T19:43:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://zalozsro.sk/virtualnesidlo.php</loc>
+  <lastmod>2020-01-05T19:43:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://zalozsro.sk/uzivatelvyhod.php</loc>
+  <lastmod>2020-01-05T19:43:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://zalozsro.sk/vedenieuctovnictva.php</loc>
+  <lastmod>2020-01-05T19:43:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://zalozsro.sk/kontakt.php</loc>
+  <lastmod>2020-01-05T19:43:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://zalozsro.sk/cookies_about.php</loc>
+  <lastmod>2020-01-05T19:43:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
